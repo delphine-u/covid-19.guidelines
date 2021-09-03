@@ -26,10 +26,8 @@ header{
 	width: 100%;
 	display: flex;
 	align-items: center;
-	/*didn't understand from here to */
 	justify-content: space-between;
 	position: fixed;
-	/*here*/
 	top: 0;left: 0;
 	z-index: 1000; 
 	padding: 2em;
